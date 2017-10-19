@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2017
 
 ### Student Name:  
-(First and Last Name)
+Chuck Phillips
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson goes over functions, loops, and comparison logic using a Tax Bracket Calculator application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://phillips001.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned various control logic like if/else, while, for, case, etc.
+2. Reviewed functions, syntax and operation.
+3. Used a practical application to work with material learned.
 
